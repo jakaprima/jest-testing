@@ -7,7 +7,7 @@ npm install -g jest
 
 usage
 cd to folder you want try
-open command line and type
+open command line and type<br>
 jest namefile
 
 :)
