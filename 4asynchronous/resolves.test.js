@@ -14,7 +14,5 @@ test('check promise if promise to resolve or reject', () => {
 		expect.assertions(1);
 		return expect(values).resolves.toBe([4, 1003, 'test'])
 	});
-
-
 });
 
